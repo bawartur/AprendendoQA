@@ -1,0 +1,4 @@
+testegithubQA2201
+
+T3."Qauntity" "Quantidade por item", t3."Qauntity"  * T0."Quantity"
+ 
